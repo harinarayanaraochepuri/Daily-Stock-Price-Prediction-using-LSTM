@@ -39,20 +39,6 @@ The system fetches real-time stock data, processes it, trains a model, and predi
 
 ---
 
-## 📁 Project Structure
-
-```
-stock-price-prediction/
-│
-├── data/                # Dataset storage
-├── models/              # Saved trained models
-├── app.py               # Streamlit app
-├── train.py             # Model training script
-├── predict.py           # Prediction script
-├── utils.py             # Data fetching utilities
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
-```
 
 ---
 
@@ -136,9 +122,9 @@ streamlit run app.py
 
 **Hari Narayana Rao Chepuri**
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-* 💻 GitHub: https://github.com/yourusername
+* 📧 Email: [your-harinarayana1608@gmail.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: www.linkedin.com/in/harinarayanaraochepuri
+* 💻 GitHub: https://github.com/harinarayanaraochepuri
 
 ---
 
